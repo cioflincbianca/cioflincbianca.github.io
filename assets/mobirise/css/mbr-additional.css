@@ -1976,24 +1976,6 @@ section.lazy-placeholder:after {
 .cid-rGpsf65EDJ H2 {
   color: #232323;
 }
-.cid-rGpsm4hBMB {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-rGpsm4hBMB .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rGpsm4hBMB .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-rGpsm4hBMB .mbr-text {
-  color: #767676;
-}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -2383,75 +2365,42 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rF5Hr7t7Zu {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #f9f295;
+.cid-rJBbHvHjhw {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/cmo-funciona-la-cultura-china-1533x1022.jpeg");
+}
+.cid-rJBgyAiRnJ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rJBgyAiRnJ .mbr-text,
+.cid-rJBgyAiRnJ blockquote {
+  color: #767676;
+}
+.cid-rJBhdRdCsF {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 @media (min-width: 992px) {
-  .cid-rF5Hr7t7Zu .mbr-figure {
+  .cid-rJBhdRdCsF .mbr-figure {
     padding-right: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-rF5Hr7t7Zu .mbr-figure {
+  .cid-rJBhdRdCsF .mbr-figure {
     padding-bottom: 1rem;
   }
 }
-.cid-rF5Hr7t7Zu .mbr-text {
-  color: #767676;
-}
-.cid-rF5Hsr8qRp {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #c4bc3b;
-}
-@media (min-width: 992px) {
-  .cid-rF5Hsr8qRp .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-rF5Hsr8qRp .mbr-figure {
-    padding-top: 1rem;
-  }
-}
-.cid-rF5Hsr8qRp .mbr-text {
-  color: #767676;
-}
-.cid-rF5HtaZ8Xd {
-  padding-top: 90px;
-  padding-bottom: 120px;
-  background-color: #f9f295;
-}
-.cid-rF5HtaZ8Xd .mbr-text {
-  color: #767676;
-}
-.cid-rF5HtaZ8Xd .mbr-text P {
-  text-align: center;
-}
-.cid-rF5KIvmQ8x {
-  padding-top: 60px;
-  padding-bottom: 120px;
-  background-color: #c4bc3b;
-}
-@media (min-width: 992px) {
-  .cid-rF5KIvmQ8x .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-rF5KIvmQ8x .mbr-figure {
-    padding-top: 1rem;
-  }
-}
-.cid-rF5KIvmQ8x .mbr-text {
+.cid-rJBhdRdCsF .mbr-text {
   color: #767676;
 }
 .cid-rF5KHb2Z26 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #f9f295;
+  background-color: #ffffff;
 }
 @media (min-width: 992px) {
   .cid-rF5KHb2Z26 .mbr-figure {
@@ -2464,6 +2413,15 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rF5KHb2Z26 .mbr-text {
+  color: #767676;
+}
+.cid-rJBgSPaTE1 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rJBgSPaTE1 .mbr-text,
+.cid-rJBgSPaTE1 blockquote {
   color: #767676;
 }
 .cid-qTkzRZLJNu .navbar {
